@@ -3,8 +3,8 @@
   "StationName": "公館",
   "Timetables": [
     {
-      "Direction": "往松山站",
-      "EffectiveFrom": "2016-07-18",
+      "Direction": "往G19松山站",
+      "EffectiveFrom": "2017-03-02",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -12,6 +12,10 @@
             {
               "Dst": "松山",
               "Time": "06:00"
+            },
+            {
+              "Dst": "松山",
+              "Time": "06:07"
             },
             {
               "Dst": "松山",
@@ -848,6 +852,10 @@
             },
             {
               "Dst": "松山",
+              "Time": "06:07"
+            },
+            {
+              "Dst": "松山",
               "Time": "06:11"
             },
             {
@@ -1561,6 +1569,10 @@
             },
             {
               "Dst": "松山",
+              "Time": "06:07"
+            },
+            {
+              "Dst": "松山",
               "Time": "06:11"
             },
             {
@@ -2268,7 +2280,7 @@
       ]
     },
     {
-      "Direction": "往新店站",
+      "Direction": "往G01新店站",
       "EffectiveFrom": "2016-07-18",
       "Schedule": [
         {

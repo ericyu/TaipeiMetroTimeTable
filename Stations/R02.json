@@ -3,8 +3,8 @@
   "StationName": "象山",
   "Timetables": [
     {
-      "Direction": "往淡水站",
-      "EffectiveFrom": "2016-07-18",
+      "Direction": "往R28淡水站",
+      "EffectiveFrom": "2017-08-01",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",

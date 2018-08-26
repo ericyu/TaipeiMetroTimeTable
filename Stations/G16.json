@@ -3,8 +3,8 @@
   "StationName": "南京復興",
   "Timetables": [
     {
-      "Direction": "往松山站",
-      "EffectiveFrom": "2016-07-18",
+      "Direction": "往G19松山站",
+      "EffectiveFrom": "2017-03-02",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -31,7 +31,7 @@
             },
             {
               "Dst": "松山",
-              "Time": "06:30"
+              "Time": "06:29"
             },
             {
               "Dst": "松山",
@@ -1116,7 +1116,7 @@
             },
             {
               "Dst": "松山",
-              "Time": "06:30"
+              "Time": "06:29"
             },
             {
               "Dst": "松山",
@@ -2041,7 +2041,7 @@
             },
             {
               "Dst": "松山",
-              "Time": "06:30"
+              "Time": "06:29"
             },
             {
               "Dst": "松山",
@@ -2944,7 +2944,7 @@
       ]
     },
     {
-      "Direction": "往台電大樓站、新店站",
+      "Direction": "往G08台電大樓站、G01新店站",
       "EffectiveFrom": "2016-07-18",
       "Schedule": [
         {

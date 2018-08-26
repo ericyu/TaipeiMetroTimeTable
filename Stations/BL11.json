@@ -3,8 +3,8 @@
   "StationName": "西門",
   "Timetables": [
     {
-      "Direction": "往南港展覽館站",
-      "EffectiveFrom": "2016-04-01",
+      "Direction": "往BL23南港展覽館站",
+      "EffectiveFrom": "2017-08-01",
       "Schedule": [
         {
           "Days": "1,2,3,4",
@@ -4509,8 +4509,8 @@
       ]
     },
     {
-      "Direction": "往亞東醫院站、頂埔站",
-      "EffectiveFrom": "2016-04-01",
+      "Direction": "往BL05亞東醫院站、BL01頂埔站",
+      "EffectiveFrom": "2017-08-01",
       "Schedule": [
         {
           "Days": "1,2,3,4",
@@ -4705,7 +4705,7 @@
             },
             {
               "Dst": "頂埔",
-              "Time": "08:45"
+              "Time": "08:46"
             },
             {
               "Dst": "亞東醫院",
@@ -5958,7 +5958,7 @@
             },
             {
               "Dst": "頂埔",
-              "Time": "08:45"
+              "Time": "08:46"
             },
             {
               "Dst": "亞東醫院",

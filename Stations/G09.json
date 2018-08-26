@@ -3,7 +3,7 @@
   "StationName": "古亭",
   "Timetables": [
     {
-      "Direction": "往松山站",
+      "Direction": "往G19松山站",
       "EffectiveFrom": "2016-07-18",
       "Schedule": [
         {
@@ -2884,7 +2884,7 @@
       ]
     },
     {
-      "Direction": "往台電大樓站、新店站",
+      "Direction": "往G08台電大樓站、G01新店站",
       "EffectiveFrom": "2016-07-18",
       "Schedule": [
         {

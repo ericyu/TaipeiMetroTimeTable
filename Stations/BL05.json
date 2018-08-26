@@ -3,8 +3,8 @@
   "StationName": "亞東醫院",
   "Timetables": [
     {
-      "Direction": "往南港展覽館站",
-      "EffectiveFrom": "2016-04-01",
+      "Direction": "往BL23南港展覽館站",
+      "EffectiveFrom": "2017-08-01",
       "Schedule": [
         {
           "Days": "1,2,3,4",
@@ -4445,8 +4445,8 @@
       ]
     },
     {
-      "Direction": "往頂埔站",
-      "EffectiveFrom": "2016-04-01",
+      "Direction": "往BL01頂埔站",
+      "EffectiveFrom": "2017-08-01",
       "Schedule": [
         {
           "Days": "1,2,3,4",
@@ -4545,7 +4545,7 @@
             },
             {
               "Dst": "頂埔",
-              "Time": "08:14"
+              "Time": "08:16"
             },
             {
               "Dst": "頂埔",
@@ -5234,7 +5234,7 @@
             },
             {
               "Dst": "頂埔",
-              "Time": "08:14"
+              "Time": "08:16"
             },
             {
               "Dst": "頂埔",

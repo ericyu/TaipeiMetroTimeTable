@@ -3,8 +3,8 @@
   "StationName": "南港展覽館",
   "Timetables": [
     {
-      "Direction": "往亞東醫院站、頂埔站",
-      "EffectiveFrom": "2016-04-01",
+      "Direction": "往BL05亞東醫院站、BL01頂埔站",
+      "EffectiveFrom": "2017-08-01",
       "Schedule": [
         {
           "Days": "1,2,3,4",

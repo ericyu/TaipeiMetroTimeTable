@@ -3,7 +3,7 @@
   "StationName": "松山",
   "Timetables": [
     {
-      "Direction": "往台電大樓站、新店站",
+      "Direction": "往G08台電大樓站、G01新店站",
       "EffectiveFrom": "2016-07-18",
       "Schedule": [
         {

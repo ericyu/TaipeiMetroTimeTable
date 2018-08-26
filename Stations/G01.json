@@ -3,7 +3,7 @@
   "StationName": "新店",
   "Timetables": [
     {
-      "Direction": "往松山站",
+      "Direction": "往G19松山站",
       "EffectiveFrom": "2016-07-18",
       "Schedule": [
         {
