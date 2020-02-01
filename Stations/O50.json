@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往O54蘆洲站",
-      "EffectiveFrom": "2018-09-03",
+      "EffectiveFrom": null,
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -111,11 +111,11 @@
             },
             {
               "Dst": "蘆洲",
-              "Time": "08:59"
+              "Time": "09:00"
             },
             {
               "Dst": "蘆洲",
-              "Time": "09:04"
+              "Time": "09:05"
             },
             {
               "Dst": "蘆洲",
@@ -1605,7 +1605,7 @@
     },
     {
       "Direction": "往O01南勢角站",
-      "EffectiveFrom": "2018-09-03",
+      "EffectiveFrom": null,
       "Schedule": [
         {
           "Days": "1,2,3,4,5",

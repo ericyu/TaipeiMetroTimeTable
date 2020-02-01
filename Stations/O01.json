@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往O54蘆洲站、O21迴龍站",
-      "EffectiveFrom": "2018-09-03",
+      "EffectiveFrom": null,
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -179,7 +179,7 @@
             },
             {
               "Dst": "迴龍",
-              "Time": "08:23"
+              "Time": "08:24"
             },
             {
               "Dst": "蘆洲",

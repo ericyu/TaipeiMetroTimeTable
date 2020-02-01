@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往O21迴龍站",
-      "EffectiveFrom": "2018-09-03",
+      "EffectiveFrom": null,
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -67,7 +67,7 @@
             },
             {
               "Dst": "迴龍",
-              "Time": "07:33"
+              "Time": "07:32"
             },
             {
               "Dst": "迴龍",
@@ -135,7 +135,7 @@
             },
             {
               "Dst": "迴龍",
-              "Time": "09:12"
+              "Time": "09:13"
             },
             {
               "Dst": "迴龍",
@@ -1685,7 +1685,7 @@
     },
     {
       "Direction": "往O01南勢角站",
-      "EffectiveFrom": "2018-09-03",
+      "EffectiveFrom": null,
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
