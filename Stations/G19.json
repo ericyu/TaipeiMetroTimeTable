@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往G01新店站",
-      "EffectiveFrom": "2023-11-06",
+      "EffectiveFrom": "2024-10-05",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",

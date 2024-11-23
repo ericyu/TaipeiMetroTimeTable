@@ -1,7 +1,7 @@
 [
   {
     "Direction": "新店",
-    "EffectiveFrom": "2023-11-06",
+    "EffectiveFrom": "2024-10-05",
     "Timetables": [
       {
         "Days": "1,2,3,4,5",
@@ -30621,7 +30621,7 @@
   },
   {
     "Direction": "松山",
-    "EffectiveFrom": "2023-11-06",
+    "EffectiveFrom": "2024-10-05",
     "Timetables": [
       {
         "Days": "1,2,3,4,5",
