@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往R22北投站、R28淡水站",
-      "EffectiveFrom": "2024-10-05",
+      "EffectiveFrom": "2025-06-02",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -1164,7 +1164,7 @@
     },
     {
       "Direction": "往R02象山站",
-      "EffectiveFrom": "2024-10-05",
+      "EffectiveFrom": "2025-06-02",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
