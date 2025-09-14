@@ -1,11 +1,2025 @@
 [
   {
     "Direction": "新店",
-    "EffectiveFrom": "2025-06-02",
+    "EffectiveFrom": "2025-08-23",
     "Timetables": [
       {
         "Days": "1,2,3,4,5",
         "Trains": [
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "06:49",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "06:51",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "06:53",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "06:55",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "06:57",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "06:59",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "07:02",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "07:04",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "07:05",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "07:07",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "07:09",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "07:11",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "07:01",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "07:04",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "07:06",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "07:08",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "07:10",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "07:12",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "07:14",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "07:16",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "07:18",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "07:20",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "07:21",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "07:23",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "07:13",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "07:15",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "07:17",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "07:19",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "07:21",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "07:23",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "07:26",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "07:28",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "07:29",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "07:31",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "07:33",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "07:35",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "07:25",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "07:28",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "07:30",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "07:32",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "07:34",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "07:36",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "07:38",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "07:40",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "07:42",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "07:44",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "07:46",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "07:48",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "07:37",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "07:40",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "07:42",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "07:44",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "07:46",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "07:48",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "07:50",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "07:52",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "07:54",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "07:56",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "07:58",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "08:00",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "07:49",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "07:52",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "07:54",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "07:56",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "07:58",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "08:00",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "08:02",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "08:04",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "08:06",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "08:08",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "08:10",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "08:12",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "08:01",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "08:04",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "08:06",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "08:08",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "08:10",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "08:12",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "08:14",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "08:16",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "08:18",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "08:20",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "08:22",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "08:24",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "08:13",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "08:16",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "08:18",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "08:20",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "08:22",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "08:24",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "08:26",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "08:28",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "08:30",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "08:32",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "08:34",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "08:36",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "08:25",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "08:28",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "08:30",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "08:32",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "08:34",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "08:36",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "08:38",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "08:40",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "08:42",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "08:44",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "08:46",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "08:48",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "08:37",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "08:40",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "08:42",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "08:44",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "08:46",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "08:48",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "08:50",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "08:52",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "08:54",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "08:56",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "08:58",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:00",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "08:46",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "08:49",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "08:51",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "08:53",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "08:55",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "08:57",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "08:59",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "09:01",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "09:03",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "09:05",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "09:07",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:09",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "08:55",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "08:58",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "09:00",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "09:03",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "09:05",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "09:07",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "09:10",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "09:11",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "09:13",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "09:15",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "09:17",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:19",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "09:07",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "09:10",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "09:12",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "09:14",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "09:16",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "09:18",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "09:20",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "09:22",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "09:24",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "09:25",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "09:27",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:29",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "09:16",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "09:18",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "09:21",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "09:22",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "09:24",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "09:27",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "09:29",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "09:31",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "09:32",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "09:34",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "09:36",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:38",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "09:27",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "09:30",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "09:32",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "09:34",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "09:36",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "09:38",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "09:41",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "09:42",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "09:44",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "09:46",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "09:48",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:50",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "09:35",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "09:38",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "09:40",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "09:42",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "09:44",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "09:46",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "09:48",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "09:50",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "09:52",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "09:54",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "09:56",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "09:58",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "09:56",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "09:59",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "10:01",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "10:03",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "10:05",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "10:07",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "10:10",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "10:12",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "10:13",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "10:15",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "10:17",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "10:19",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "10:04",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "10:07",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "10:09",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "10:11",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "10:13",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "10:15",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "10:18",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "10:20",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "10:21",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "10:23",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "10:25",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "10:27",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "10:12",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "10:15",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "10:17",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "10:19",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "10:21",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "10:23",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "10:26",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "10:28",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "10:29",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "10:31",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "10:33",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "10:35",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "16:31",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "16:33",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "16:36",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "16:37",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "16:40",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "16:42",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "16:44",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "16:46",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "16:48",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "16:50",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "16:52",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "16:54",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "16:47",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "16:50",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "16:52",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "16:54",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "16:56",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "16:58",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "17:01",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "17:02",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "17:04",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "17:06",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "17:08",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "17:10",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "17:01",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "17:04",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "17:06",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "17:08",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "17:10",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "17:12",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "17:15",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "17:16",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "17:18",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "17:20",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "17:22",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "17:24",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "17:14",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "17:17",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "17:19",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "17:21",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "17:23",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "17:25",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "17:28",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "17:30",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "17:31",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "17:33",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "17:35",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "17:37",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "17:27",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "17:30",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "17:31",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "17:34",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "17:36",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "17:38",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "17:40",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "17:42",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "17:44",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "17:46",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "17:48",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "17:50",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "17:39",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "17:42",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "17:44",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "17:46",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "17:48",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "17:51",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "17:53",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "17:55",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "17:57",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "17:59",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "18:01",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "18:03",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "17:52",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "17:55",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "17:57",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "17:59",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "18:01",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "18:03",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "18:06",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "18:08",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "18:09",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "18:11",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "18:13",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "18:15",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "18:05",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "18:08",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "18:09",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "18:12",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "18:14",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "18:16",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "18:18",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "18:20",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "18:22",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "18:24",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "18:26",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "18:28",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "18:17",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "18:20",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "18:22",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "18:24",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "18:26",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "18:29",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "18:31",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "18:33",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "18:35",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "18:37",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "18:39",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "18:41",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "18:30",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "18:33",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "18:35",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "18:37",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "18:39",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "18:41",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "18:44",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "18:46",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "18:47",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "18:49",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "18:51",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "18:53",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "18:43",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "18:46",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "18:47",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "18:50",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "18:52",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "18:54",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "18:56",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "18:58",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "19:00",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "19:02",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "19:04",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "19:06",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "18:55",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "18:58",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "19:00",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "19:02",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "19:04",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "19:07",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "19:09",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "19:11",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "19:13",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "19:15",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "19:17",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "19:19",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "19:08",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "19:11",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "19:13",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "19:15",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "19:17",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "19:19",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "19:22",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "19:24",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "19:26",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "19:28",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "19:29",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "19:31",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "19:21",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "19:24",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "19:26",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "19:28",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "19:30",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "19:32",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "19:35",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "19:36",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "19:38",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "19:40",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "19:42",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "19:44",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "19:33",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "19:36",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "19:38",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "19:40",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "19:42",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "19:45",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "19:47",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "19:49",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "19:51",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "19:53",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "19:55",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "19:57",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "20:18",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "20:21",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "20:23",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "20:25",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "20:27",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "20:30",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "20:32",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "20:34",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "20:36",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "20:38",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "20:39",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "20:41",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "20:38",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "20:40",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "20:43",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "20:45",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "20:47",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "20:49",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "20:51",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "20:53",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "20:55",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "20:57",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "20:59",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "21:01",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "20:56",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "20:58",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "21:01",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "21:03",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "21:05",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "21:07",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "21:09",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "21:11",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "21:13",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "21:15",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "21:17",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "21:19",
+                "StationCode": "G08"
+              }
+            ]
+          },
+          {
+            "Dst": "台電大樓",
+            "Schedule": [
+              {
+                "DepTime": "21:16",
+                "StationCode": "G19"
+              },
+              {
+                "DepTime": "21:19",
+                "StationCode": "G18"
+              },
+              {
+                "DepTime": "21:21",
+                "StationCode": "G17"
+              },
+              {
+                "DepTime": "21:23",
+                "StationCode": "G16"
+              },
+              {
+                "DepTime": "21:25",
+                "StationCode": "G15"
+              },
+              {
+                "DepTime": "21:28",
+                "StationCode": "G14"
+              },
+              {
+                "DepTime": "21:30",
+                "StationCode": "G13"
+              },
+              {
+                "DepTime": "21:32",
+                "StationCode": "G12"
+              },
+              {
+                "DepTime": "21:34",
+                "StationCode": "G11"
+              },
+              {
+                "DepTime": "21:36",
+                "StationCode": "G10"
+              },
+              {
+                "DepTime": "21:37",
+                "StationCode": "G09"
+              },
+              {
+                "DepTime": "21:39",
+                "StationCode": "G08"
+              }
+            ]
+          },
           {
             "Dst": "新店",
             "Schedule": [
@@ -15154,2020 +17168,6 @@
             ]
           },
           {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "06:49",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "06:51",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "06:53",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "06:55",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "06:57",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "06:59",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "07:02",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "07:04",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "07:05",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "07:07",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "07:09",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "07:11",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "07:01",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "07:04",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "07:06",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "07:08",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "07:10",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "07:12",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "07:14",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "07:16",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "07:18",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "07:20",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "07:21",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "07:23",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "07:13",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "07:15",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "07:17",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "07:19",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "07:21",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "07:23",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "07:26",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "07:28",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "07:29",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "07:31",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "07:33",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "07:35",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "07:25",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "07:28",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "07:30",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "07:32",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "07:34",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "07:36",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "07:38",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "07:40",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "07:42",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "07:44",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "07:46",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "07:48",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "07:37",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "07:40",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "07:42",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "07:44",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "07:46",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "07:48",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "07:50",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "07:52",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "07:54",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "07:56",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "07:58",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "08:00",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "07:49",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "07:52",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "07:54",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "07:56",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "07:58",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "08:00",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "08:02",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "08:04",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "08:06",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "08:08",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "08:10",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "08:12",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "08:01",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "08:04",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "08:06",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "08:08",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "08:10",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "08:12",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "08:14",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "08:16",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "08:18",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "08:20",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "08:22",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "08:24",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "08:13",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "08:16",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "08:18",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "08:20",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "08:22",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "08:24",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "08:26",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "08:28",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "08:30",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "08:32",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "08:34",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "08:36",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "08:25",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "08:28",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "08:30",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "08:32",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "08:34",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "08:36",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "08:38",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "08:40",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "08:42",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "08:44",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "08:46",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "08:48",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "08:37",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "08:40",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "08:42",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "08:44",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "08:46",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "08:48",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "08:50",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "08:52",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "08:54",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "08:56",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "08:58",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:00",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "08:46",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "08:49",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "08:51",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "08:53",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "08:55",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "08:57",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "08:59",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "09:01",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "09:03",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "09:05",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "09:07",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:09",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "08:55",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "08:58",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "09:00",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "09:03",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "09:05",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "09:07",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "09:10",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "09:11",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "09:13",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "09:15",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "09:17",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:19",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "09:07",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "09:10",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "09:12",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "09:14",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "09:16",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "09:18",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "09:20",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "09:22",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "09:24",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "09:25",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "09:27",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:29",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "09:16",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "09:18",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "09:21",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "09:22",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "09:24",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "09:27",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "09:29",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "09:31",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "09:32",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "09:34",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "09:36",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:38",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "09:27",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "09:30",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "09:32",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "09:34",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "09:36",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "09:38",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "09:41",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "09:42",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "09:44",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "09:46",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "09:48",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:50",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "09:35",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "09:38",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "09:40",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "09:42",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "09:44",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "09:46",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "09:48",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "09:50",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "09:52",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "09:54",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "09:56",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "09:58",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "09:56",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "09:59",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "10:01",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "10:03",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "10:05",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "10:07",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "10:10",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "10:12",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "10:13",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "10:15",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "10:17",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "10:19",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "10:04",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "10:07",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "10:09",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "10:11",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "10:13",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "10:15",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "10:18",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "10:20",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "10:21",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "10:23",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "10:25",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "10:27",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "10:12",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "10:15",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "10:17",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "10:19",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "10:21",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "10:23",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "10:26",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "10:28",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "10:29",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "10:31",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "10:33",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "10:35",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "16:31",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "16:33",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "16:36",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "16:37",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "16:40",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "16:42",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "16:44",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "16:46",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "16:48",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "16:50",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "16:52",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "16:54",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "16:47",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "16:50",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "16:52",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "16:54",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "16:56",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "16:58",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "17:01",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "17:02",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "17:04",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "17:06",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "17:08",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "17:10",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "17:01",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "17:04",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "17:06",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "17:08",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "17:10",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "17:12",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "17:15",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "17:16",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "17:18",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "17:20",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "17:22",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "17:24",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "17:14",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "17:17",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "17:19",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "17:21",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "17:23",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "17:25",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "17:28",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "17:30",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "17:31",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "17:33",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "17:35",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "17:37",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "17:27",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "17:30",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "17:31",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "17:34",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "17:36",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "17:38",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "17:40",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "17:42",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "17:44",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "17:46",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "17:48",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "17:50",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "17:39",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "17:42",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "17:44",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "17:46",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "17:48",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "17:51",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "17:53",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "17:55",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "17:57",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "17:59",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "18:01",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "18:03",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "17:52",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "17:55",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "17:57",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "17:59",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "18:01",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "18:03",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "18:06",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "18:08",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "18:09",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "18:11",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "18:13",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "18:15",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "18:05",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "18:08",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "18:09",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "18:12",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "18:14",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "18:16",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "18:18",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "18:20",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "18:22",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "18:24",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "18:26",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "18:28",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "18:17",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "18:20",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "18:22",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "18:24",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "18:26",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "18:29",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "18:31",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "18:33",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "18:35",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "18:37",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "18:39",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "18:41",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "18:30",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "18:33",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "18:35",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "18:37",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "18:39",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "18:41",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "18:44",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "18:46",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "18:47",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "18:49",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "18:51",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "18:53",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "18:43",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "18:46",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "18:47",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "18:50",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "18:52",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "18:54",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "18:56",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "18:58",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "19:00",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "19:02",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "19:04",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "19:06",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "18:55",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "18:58",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "19:00",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "19:02",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "19:04",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "19:07",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "19:09",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "19:11",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "19:13",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "19:15",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "19:17",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "19:19",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "19:08",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "19:11",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "19:13",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "19:15",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "19:17",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "19:19",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "19:22",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "19:24",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "19:26",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "19:28",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "19:29",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "19:31",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "19:21",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "19:24",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "19:26",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "19:28",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "19:30",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "19:32",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "19:35",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "19:36",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "19:38",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "19:40",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "19:42",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "19:44",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "19:33",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "19:36",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "19:38",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "19:40",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "19:42",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "19:45",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "19:47",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "19:49",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "19:51",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "19:53",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "19:55",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "19:57",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "20:18",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "20:21",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "20:23",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "20:25",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "20:27",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "20:30",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "20:32",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "20:34",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "20:36",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "20:38",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "20:39",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "20:41",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "20:38",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "20:40",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "20:43",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "20:45",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "20:47",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "20:49",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "20:51",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "20:53",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "20:55",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "20:57",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "20:59",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "21:01",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "20:56",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "20:58",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "21:01",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "21:03",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "21:05",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "21:07",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "21:09",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "21:11",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "21:13",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "21:15",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "21:17",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "21:19",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
-            "Dst": "台電大樓",
-            "Schedule": [
-              {
-                "DepTime": "21:16",
-                "StationCode": "G19"
-              },
-              {
-                "DepTime": "21:19",
-                "StationCode": "G18"
-              },
-              {
-                "DepTime": "21:21",
-                "StationCode": "G17"
-              },
-              {
-                "DepTime": "21:23",
-                "StationCode": "G16"
-              },
-              {
-                "DepTime": "21:25",
-                "StationCode": "G15"
-              },
-              {
-                "DepTime": "21:28",
-                "StationCode": "G14"
-              },
-              {
-                "DepTime": "21:30",
-                "StationCode": "G13"
-              },
-              {
-                "DepTime": "21:32",
-                "StationCode": "G12"
-              },
-              {
-                "DepTime": "21:34",
-                "StationCode": "G11"
-              },
-              {
-                "DepTime": "21:36",
-                "StationCode": "G10"
-              },
-              {
-                "DepTime": "21:37",
-                "StationCode": "G09"
-              },
-              {
-                "DepTime": "21:39",
-                "StationCode": "G08"
-              }
-            ]
-          },
-          {
             "Dst": "新店",
             "Schedule": [
               {
@@ -30621,7 +30621,7 @@
   },
   {
     "Direction": "松山",
-    "EffectiveFrom": "2025-06-02",
+    "EffectiveFrom": "2025-08-23",
     "Timetables": [
       {
         "Days": "1,2,3,4,5",

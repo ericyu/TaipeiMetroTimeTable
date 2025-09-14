@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往O54蘆洲站、O21迴龍站",
-      "EffectiveFrom": "2025-06-02",
+      "EffectiveFrom": "2025-08-23",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
@@ -1060,7 +1060,7 @@
     },
     {
       "Direction": "往O01南勢角站",
-      "EffectiveFrom": "2025-06-02",
+      "EffectiveFrom": "2025-08-23",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",

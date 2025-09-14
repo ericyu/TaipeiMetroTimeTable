@@ -4,7 +4,7 @@
   "Timetables": [
     {
       "Direction": "往O01南勢角站",
-      "EffectiveFrom": "2025-06-02",
+      "EffectiveFrom": "2025-08-23",
       "Schedule": [
         {
           "Days": "1,2,3,4,5",
